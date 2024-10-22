@@ -1,5 +1,9 @@
 # CIS 5660 HW03 Procedural Buildings
 
+My inspiration is the houses fromm the lorax movie. 
+
+
+
 ## Project Overview
 In this homework you’ll gain more experience with tool creation and loops. The core of this homework will be following a Procedural House tutorial to create a multi-floor building generator. The tutorial is linked here: 
 https://www.youtube.com/watch?v=uIe97023sDk&t=979s&ab_channel=SimonHoudini 
