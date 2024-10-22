@@ -2,6 +2,12 @@
 
 My inspiration is the houses fromm the lorax movie. 
 
+I added noise distortion to the walls and supports. I also added a roof.
+
+Video: 
+
+https://github.com/user-attachments/assets/a65d4aea-6f92-42a1-b687-dcf293ed12f4
+
 
 
 ## Project Overview
